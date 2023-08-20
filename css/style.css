@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* .navbar-brand img {
+    margin-left: 4rem;
+}
+
+.navbar-nav {
+    margin-right: 4rem;
+} */
+
+.titulo-inputs{
+    font-size: 18px;
+}
+
+.text-enviar{
+    font-weight: bolder;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cards .col {
+    max-width: 450px; 
+}
+
+.text-success{
+    font-weight: 600;
+}
+
+.no-bg{
+    background: none;
+}
